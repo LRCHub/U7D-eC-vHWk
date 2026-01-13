@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "KICK BACK -ANIME edit",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2026-01-13T18:11:38.849285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KICK BACK -ANIME edit",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/01_KICK_BACK_-ANIME_edit_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KICK BACK –ANIME edit",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_KICK_BACK_–ANIME_edit_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KICK BACK -ANIME edit",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_KICK_BACK_-ANIME_edit_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KICK BACK -ANIME edit",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_KICK_BACK_-ANIME_edit_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KICK BACK -ANIME edit",
+      "artist": "Kenshi Yonezu  米津玄師",
+      "has_synced": true,
+      "path": "select/05_KICK_BACK_-ANIME_edit_Kenshi_Yonezu_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KICK BACK -ANIME edit",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/06_KICK_BACK_-ANIME_edit_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KICK BACK -ANIME edit",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_KICK_BACK_-ANIME_edit_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KICK BACK",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_KICK_BACK_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "KICK BACK",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_KICK_BACK_米津玄師.txt"
+    }
+  ]
+}
